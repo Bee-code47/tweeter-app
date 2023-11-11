@@ -10,3 +10,4 @@ const appbarColor = Colors.black;
 const themeColor = Colors.black;
 const transparent = Colors.transparent;
 const bluegry = Colors.blueGrey;
+const wht = Colors.white;
