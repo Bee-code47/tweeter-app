@@ -9,3 +9,4 @@ final searchBarColor = Colors.blueGrey[700];
 const appbarColor = Colors.black;
 const themeColor = Colors.black;
 const transparent = Colors.transparent;
+const bluegry = Colors.blueGrey;
